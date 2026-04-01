@@ -9,9 +9,6 @@ React Native приложение со списком пользователей
 - TypeScript
 - DummyJSON API
 
-## 📱 Скриншоты
-
-![Скриншот](./screenshot.png)
 
 ## 🛠 Установка
 
